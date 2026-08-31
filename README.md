@@ -176,8 +176,8 @@ myself to write better code — usually in Python, occasionally in Java at 2 a.m
 </div>
 
 ---
-### ✍️ Random Dev Quote !
-[](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
 
