@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 532 526" width="532" height="526" role="img" aria-label="language radar placeholder" font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<text x="266" y="25" text-anchor="middle" font-size="15" font-weight="700" fill="#e6edf3">Mugiwara-ya-tech · language mix</text>
+<g transform="translate(266,290)" fill="none" stroke="#30363d" stroke-width="1.5" stroke-dasharray="5 6">
+<polygon points="0.0,-212.0 165.7,-132.2 206.7,47.2 92.0,191.0 -92.0,191.0 -206.7,47.2 -165.7,-132.2"/><polygon points="0.0,-212.0 165.7,-132.2 206.7,47.2 92.0,191.0 -92.0,191.0 -206.7,47.2 -165.7,-132.2"/>
+</g>
+<g transform="translate(266,290)">
+<circle r="6" fill="#30363d"/>
+<text y="-238" text-anchor="middle" font-size="14" fill="#8b949e">two languages so far — Python and HTML</text>
+<text y="-214" text-anchor="middle" font-size="13" fill="#8b949e">push code in a third language and this chart draws itself</text>
+</g>
+</svg>

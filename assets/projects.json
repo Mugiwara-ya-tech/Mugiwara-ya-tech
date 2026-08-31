@@ -1,0 +1,13 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description. Add a card by adding an entry here plus one table cell in README.md.",
+  "projects": [
+    {
+      "repo": "Python-Learning-Journey",
+      "description": "Notes, practice programs, experiments and mini-projects — building a Python foundation strong enough to stand on for AI/ML."
+    },
+    {
+      "repo": "hh-goa-frame",
+      "description": "Drop in a photo, get two branded graphics back — a backstage Builder Pass and a sun-halo PFP — rendered 100% client-side, no server, in seconds."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated numbers, 0-100. Edit them and the Charts-and-cards workflow redraws this on the next run. 5-8 axes reads best.",
+  "axes": [
+    { "label": "Python",      "value": 85 },
+    { "label": "Java",        "value": 55 },
+    { "label": "C",           "value": 50 },
+    { "label": "HTML / CSS",  "value": 60 },
+    { "label": "AI / ML",     "value": 62 },
+    { "label": "DSA",         "value": 58 },
+    { "label": "Git / GitHub","value": 72 }
+  ]
+}
