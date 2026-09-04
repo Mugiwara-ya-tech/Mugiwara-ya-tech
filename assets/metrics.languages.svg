@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="254.54839529172665" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="254.54839529172665" y="0" width="193.2358370734186" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="447.7842323651453" y="0" width="12.215767634854771" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.2322396458273" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="259.2322396458273" y="0" width="188.83048533245065" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.06272497827797" y="0" width="11.93727502172204" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>65.3 kB</div>
-                                <div>55.34%</div>
+                                <div>68.1 kB</div>
+                                <div>56.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,7 +48,7 @@
                             </div>
                             <small>
                                 <div>3.14 kB</div>
-                                <div>2.66%</div>
+                                <div>2.6%</div>
                             </small>
                         </div>
                     </section>
@@ -62,7 +62,7 @@
                             </div>
                             <small>
                                 <div>49.6 kB</div>
-                                <div>42.01%</div>
+                                <div>41.05%</div>
                             </small>
                         </div>
                     </section>
