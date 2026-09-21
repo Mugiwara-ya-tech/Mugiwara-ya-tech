@@ -37,7 +37,7 @@ $ cat about.txt
 ```
 
 Hi, I'm **Prateek Verma**. I'm an AIML undergrad teaching machines to learn and
-myself to write better code — usually in Python, occasionally in Java at 2 a.m.
+myself to write better code — usually in Python, occasionally in Java
 
 - 🎓 B.E. AIML @ AMC Engineering College, Bengaluru
 - 🌱 Currently learning **DSA with Java** and **Machine Learning**
